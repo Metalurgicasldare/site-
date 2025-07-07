@@ -1,0 +1,62 @@
+/* Estilo geral */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Cabeçalho tipo capa */
+header {
+  background-color: #111;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+  margin: 0;
+  color: #00e676;
+  text-transform: uppercase;
+}
+
+/* Conteúdo principal */
+.conteudo {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.servicos h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #00e676;
+}
+
+.servicos ul {
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+}
+
+.servicos li {
+  margin: 10px 0;
+}
+
+/* Botão do WhatsApp */
+.botao-whatsapp {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 15px 25px;
+  background-color: #25D366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.botao-whatsapp:hover {
+  background-color: #1ebc59;
+}
