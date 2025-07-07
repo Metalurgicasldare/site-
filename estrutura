@@ -1,0 +1,33 @@
+
+   <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metalúrgica Soldare</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Metalúrgica Soldare</h1>
+  </header>
+
+  <main class="conteudo">
+    <section class="servicos">
+      <h2>Nossos Serviços</h2>
+      <ul>
+        <li>✔️ Estruturas metálicas</li>
+        <li>✔️ Galpões metálicos</li>
+        <li>✔️ Corrimão de inox</li>
+        <li>✔️ Serralheria</li>
+        <li>✔️ Portões</li>
+      </ul>
+    </section>
+
+    <a class="botao-whatsapp" href="https://wa.me/5548999999999" target="_blank">
+      📞 Faça seu orçamento
+    </a>
+  </main>
+</body>
+</html>
+
